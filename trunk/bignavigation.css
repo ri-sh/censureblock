@@ -1,0 +1,85 @@
+/* mail: censureblock@gmail.com */
+@charset 'utf-8';
+@namespace url(http://www.w3.org/1999/xhtml);
+/*4pda.ru*/
+span#page-jump-2,
+span.pagecurrent,
+span.pagelink,
+span.pagelinklast,
+/*habrahabr.ru*/
+div.page-nav > ul,
+/*forums.overclockers.ru*/
+span.pagination,
+td.gensmall > a,
+/*joyreactor.cc*/
+div.pagination,
+/*ellf.ru*/
+div.navigation,
+/*dslnet.ru*/
+div.pagenav td.alt1 > a,
+/*hpc.ru*/
+span.gensmall > b > a,
+/*mozilla-russia.org*/
+p.postlink > a,
+/*forum.ubuntu.ru*/
+div.pagelinks > a.navPages,
+/*ubuntuforums.org*/
+form.pagination > span > a,
+/*forum.exclufoto.ru*/
+p.paging > a,
+/*rutracker.org*/
+p.small > b > a.pg,
+div.nav > p > a.pg,
+/*nnm-club.me*/
+span.nav,
+/*tb.animereactor.ru*/
+div#navyTop,
+div#navyBot,
+/*gentoo.ru*/
+li.pager-item > a,
+li.pager-next > a,
+li.pager-last > a,
+/*avito.ru*/
+div.b-paginator,
+/*yandex.ru*/
+span.pager__group,
+/*market.yandex.ru*/
+span.b-pager__active,
+div.b-pager__pages,
+/*nya.sh*/
+div.pages,
+/*rulinux.net*/
+span.pages_title,
+/*modding.ru*/
+a.jqpage,
+/*goodfon.ru*/
+div.paginator,
+/*ru-board.com*/
+span.small > a,
+/*linux.org.ru*/
+a[rel="next"],
+a[rel="prev"],
+/*otvet.mail.ru*/
+div.Pager > a,
+/*google.com*/
+table#nav,
+/*rambler.ru*/
+ul.b-pager__list,
+li.b-pager__handle_back,
+li.b-pager__handle_forward,
+/*skoda-avto.ru*/
+span.newsListPagerCurrent,
+span.newsListPagerNumber,
+/*autotraver.ru*/
+div.pstrnav,
+/*sputnik.ru*/
+li.b-pages__item,
+/*for many sites*/
+div.prev,
+div.next,
+a.next,
+a.prev
+{
+font-size: 20px !important;
+font-weight: bold !important;
+}
