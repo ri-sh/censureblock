@@ -74,7 +74,7 @@ xxxviii?
 \.bash\.im/
 \.(?:onlyfilm[sz])\.ws/
 \.(?:kinofilms|onlyfilms)\.tv/
-\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|saratov\.[a-z\d._-]*)\.ru/
+\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|saratov\.[a-z\d._-]*)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:62|rbc|aquafanat\.com)\.ua/
 \.amur\.net/
@@ -390,7 +390,7 @@ h(?:eadbanger|ella|otcharts|omepage)
 i(?:magepost|picture|mages\.people\.overclockers|vanamp\.pdj)
 j(?:oblist|ust|ustcom|ustmedia)
 k(?:amin-magazine|c18|eep4u|urskweb)
-l(?:ah|ove\.mail|inguee|ittle-tales|oveopium|overadio)
+l(?:ah|ove\.mail|inguee|ittle-tales|oveopium|overadio|ivejournal)
 m(?:arket-click2\.yandex|agicwall|aillist|ajordomo|egashop|y-shop|ylivepage|video|yshows)
 news(?:inphoto|tube)
 o(?:dnoklassniki|ldi|ld\.osp|nlyfilms|mmassage|verhard)
