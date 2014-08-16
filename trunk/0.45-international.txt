@@ -32,7 +32,6 @@ t(?:aboo|een|sseduction|ugjobs)
 v(?:agin|ergewaltigung|iagra)
 whore
 xxx)
-\.antiporno\.org/
 //18\+)
 }
 
@@ -41,7 +40,7 @@ xxx)
 // Список регексов для игнорирования блокировки в Title Meta Body a.innerHTML
 // без пробелов
 [List_Regexps_for_Ignore_Block_on_Title_and_Meta_and_Body_and_a.innerHTML]{
-sexml|teenage|\dxxx|xxxholic|updating|validating|philips|xxxxxxxxxxxxxxx|-XXX|-xxx
+antiporno|sexml|teenage|\dxxx|xxxholic|updating|validating|philips|xxxxxxxxxxxxxxx|-XXX|-xxx
 //vk.com
 "sex":""|uisex|sexdata|chancesexp|dropdown\(ge\('sex'\)
 knackt
