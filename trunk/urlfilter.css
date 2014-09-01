@@ -15,6 +15,7 @@ a[href^='http://top.mail.ru/jump?'],
 a[href^='http://top.list.ru/jump?'],
 a[href$='www.liveinternet.ru/click'],
 img[alt='LiveInternet'],
+img[alt='реклама'],
 /*размеры баннеров*/
 embed[width='120'][height='600'],
 embed[width='240'][height='400'],
@@ -299,6 +300,7 @@ div#rhs_block,
 div#tvcap>div.commercial-unit,
 /*youtube*/
 div#premium-yva,
+div#video-masthead,
 /*rutracker.org*/
 div#sidebar1_wrap>div#ddest-bn-1,
 div#sidebar1_wrap>div#idx-3,
@@ -335,6 +337,7 @@ div#footer div.decoblock-content,
 table.needblock,
 div#header>div#uhi,
 body.ltr>center>a,
+iframe#a75c1e43,
 /*fileplaneta.com*/
 span#ta8c,
 /*irr.ru*/
