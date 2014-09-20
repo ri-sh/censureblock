@@ -74,6 +74,7 @@ xxxviii?
 \.bash\.org\.
 \.(?:baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
+\.(?:24tv|62|rbc|aquafanat\.com)\.ua/
 }
 
 // Здесь слова и сайты, по которым блокируются URL, <a href=url>, <img src=url>
@@ -401,7 +402,7 @@ x(?:-memory|gu|vidvideo)
 ya(?:dro|hosuka))\.ru/
 \.(?:documental|business-class)\.su/
 \.novafilm\.tv/
-\.(?:(?:crimeaguide|privatblog)\.com|(?:7-zip|e-reading)\.org|analitika\.at|donbass|assa\.intertelecom|intime|privat24)\.ua/
+\.(?:(?:crimeaguide|privatblog)\.com|(?:7-zip|e-reading)\.org|analitika\.at|donbass|assa\.intertelecom|intime|privat24|24tv)\.ua/
 \.(?:arjlover|kavkazweb|mytop-in|royalrangers-cr|ukr|website-ru|video-tub-f-ru\.yandex|video-tub-ru\.yandex)\.net/
 \.(?:7-sky|anyfilm|clipnews|forum\.sevastopol|legalpo|rusfootball)\.info/
 \.(?:tiny|school-city)\.by/
