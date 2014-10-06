@@ -72,7 +72,7 @@ xxxviii?
 [List_Regexps_for_dont_check_Title_and_Meta_and_Body_and_a.innerHTML]{
 \.nya\.sh/
 \.bash\.org\.
-\.(?:baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex)\.ru/
+\.(?:baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|top-page)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com)\.ua/
 }
@@ -394,7 +394,7 @@ o(?:ldi|ld\.osp|verhard)
 p(?:hotoblog|ics\.top\.rbc|layhard|layground|okupki21|ool-magazine|ronto|rime-tass|rivat24)
 r(?:c-love|osnet|oyalrangers\.ucoz|ussianpost|zd)
 s(?:aransk|aratoff|aratov|aratov\.kp|brf|ibmama|m-city|mi21|martflash|pbpost|portmaster|tudent\.altstu|uperjob|chool-club|tudents)
-t(?:erritory-pc|imeweb|op100-images\.rambler|ranslate|retyakovgallery|sya|sigan)
+t(?:op-page|erritory-pc|imeweb|op100-images\.rambler|ranslate|retyakovgallery|sya|sigan)
 u(?:kfootball|ralweb)
 v(?:ersion6|esmaster|ideo(?:roms|tuts))
 w(?:ebmoney|ebplanet|etfly|orld-art)

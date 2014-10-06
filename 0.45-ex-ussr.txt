@@ -74,7 +74,7 @@ xxxviii?
 \.bash\.im/
 \.(?:onlyfilm[sz])\.ws/
 \.(?:kinofilms|onlyfilms)\.tv/
-\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|saratov\.[a-z\d._-]*)\.ru/
+\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|top-page|saratov\.[a-z\d._-]*)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com)\.ua/
 \.amur\.net/
@@ -398,7 +398,7 @@ p(?:ejnya|hotoblog|hotofile|ics\.top\.rbc|layhard|layground|lanetviolets|okupki2
 r(?:c-love|osnet|oyalrangers\.ucoz|ussianpost|zd)
 qbank
 s(?:aunamax|aransk|aratoff|aratov|aratov\.[a-z\d._-]*|brf|ibmama|m-city|mi21|martflash|pbpost|portmaster|tudent\.altstu|uperjob|chool-club|tudents|vyaznoybank|vpressa|ushitokio31)
-t(?:errikon|erritory-pc|imeweb|op100-images\.rambler|ranslate|retyakovgallery|sya|sigan)
+t(?:op-page|errikon|erritory-pc|imeweb|op100-images\.rambler|ranslate|retyakovgallery|sya|sigan)
 u(?:kfootball|ralweb)
 v(?:ersion6|esmaster|ideo(?:roms|tuts))
 w(?:ebmoney|ebplanet|etfly|ildberries|orld-art)
