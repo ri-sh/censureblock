@@ -58,13 +58,26 @@ seventeen
 // т.е. Если на каком-то сайте, CensureBlock скрывает страницу, и Вы не хотите этого, добавьте сюда этот сайт
 // Список сайтов на которых не будут проверяться Title Meta Body a.innerHTML
 [List_Regexps_for_dont_check_Title_and_Meta_and_Body_and_a.innerHTML]{
-\.(?:mozilla|mozilla-russia|wikipedia|bash|jw)\.org/
+\.(?:agendaweb|mozilla|mozilla-russia|wikipedia|bash|jw|familysearch|)\.org/
 \.vk(?:ontakte\.ru|\.com)/(?:feed|editprofile)
-\.odnoklassniki\.ru/dk\?st\.cmd=usermain
-\.(?:apis\.google|mail\.google|plus\.google|earnmoremall|priceline|forever21|wellsfargo|typingweb)\.com/
-\.animefreak\.tv/
+\.odnoklassniki\.ru/
+\.(?:analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef)\.com/
+\.(?:animefreak|italiafilm)\.tv/
 \.cyanus\.lt/
+\.myvideo\.ge/
+\.(?:antiporno|leo|mbed|thevintageknob)\.org/
+\.vub\.sk/
+\.filelist\.ro/
+\.seriale\.filmesubtitrate\.info/
+\.cocl\.sirsi\.net/
+\.ebay\.co\.uk/
+\.(?:emuparadise|videoripper)\.me/
+\.uach\.mx/
+\.(t-online|audioklassiks)\.de/
+\.mail\.wo\.com\.cn/
+\.player\.uz/
 }
+
 
 // Здесь слова и сайты, по которым блокируются URL, <a href=url>, <img src=url>
 // Список регексов для блокировки на URL.spec и a.href и img.src
@@ -403,11 +416,11 @@ analiz|eros_ramazzotti|joe_cocker|gary_peacock)
 123jump
 3dvisionlive
 7-zip
-a(?:bbyy|bbyyonline|bc6|dvancedclustering|lexa|pache|pple|manda|mazon|ma-assn|mericanpublicmedia|mericanbankingnews|lexflyfishing|llheadlinenews|nalysis\.avira|ntiquesandthearts|ndroidguys|ngels|nimefreak|nimepremium|ra-toon|rtflasher|sus)
+a(?:udioklassiks|nalog|ntiporno|gendaweb|rstechnica|lokitobangladesh|lexiasinclair|nywayanyday|bbyy|bbyyonline|bc6|dvancedclustering|lexa|pache|pple|manda|mazon|ma-assn|mericanpublicmedia|mericanbankingnews|lexflyfishing|llheadlinenews|nalysis\.avira|ntiquesandthearts|ndroidguys|ngels|nimefreak|nimepremium|ra-toon|rtflasher|sus|vito)
 b(?:angkokpost|abelzilla|arentsnova|bcentertainment|erkeleydailyplanet|estfreewaredownload|igsavefootwear|igbuckbunny|jorn3d|luejays|luesnews|luecatsgraphics|luegriffon|linde-kuh|logblog|log\.laptopmag|logsearch\.google\.com|ogvideo)
 c(?:afefootball|amp-firefox|ampaignlive\.co|artoonnetwork|dbaby|elebuzz|elebrity-gossip|elebritybabyscoop|loudacl|lubpenguin|lustrmaps|lubecetico|lubforgrowth|lip2net|o(?:mmondreams|mputerandvideogames|olermaster)|hristianpost|ranestodaymagazine|rimea|runchbang|runchbanglinux|hris-tv|uteftp|yberctm|yanus|zechnymph)
 d(?:ailyindia|ailycaller|ailytarheel|ailyherald|allasnews|esiringgod|efenceweb\.co|istrowatch|ocumentfoundation|ownloadtube|rweb|vdvideosoft)
-e(?:-gold|arthcam|arthweb|arthcamcdn|bay|baystatic|choes|real|vanhanson|la-asso|linuxfoundation|lephantsdream|thereal|scapistmagazine|spnmadison)
+e(?:-gold|arnmoremall|arthcam|arthweb|arthcamcdn|bay|bay\.co|baystatic|choes|f|iscoveryeducation|real|vanhanson|la-asso|linuxfoundation|lephantsdream|thereal|scapistmagazine|spnmadison)
 f(?:ata(?:lgame|awa)|ree(?:desktop|drweb|shell|webarcade)|fmpeg|loridastandards|oothillfalcons\.entest|oothillsports|oothillfalcons|orever21|orever21\.co|uncast|reshmeat|ichajes|iercemobilecontent|ilewatcher|ilmschoolrejects|ootmercato|oot-national|ootcenter|otohosting)
 i(?:mage-line|magemagick|cenetwork|sohunt|slamictube)
 j(?:ohnford|ustice)
@@ -423,7 +436,7 @@ o(?:kmagazine|verclockersclub|verclock3d|zone3d)
 p(?:a(?:gesjaunes|lmbeachpost|ndora|rtimage|rtedmagic|idcontent)|cgameshardware|eliculas-latino|eoplestylewatch|ics|honerlite|hilips|lasmasturm|oliticsweb\.co|opwatch\.ew|oste|opphoto|ostimage|owerarchiver|owerschool|hotofiltre\.free|riceline|ricelinepartnernetwork|rivatbank|romgirl|sychometrics\.ppsis\.cam\.ac|ureftpd|ublic(?:radio|space|integrity|rweb|recordsin(?:fo|dex))|ureoverclock)
 r(?:apidshare|e(?:alitytvworld|trogamefreak|trogames|adwriteweb|rfect-privacy)|owerlineblog|oyals)
 s(?:3\.amazonaws|andranasic|canalert|erverwatch|ecurelist|ecure\.wlxrs|hopherbalife|implysup(?:online|ersoft)|insofasolarempire|iteheart|martabouthealth|o(?:ftwarecocktail|urceforge|merandomdude)|portingnews|portspagemagazine|tudiodaily|tudivz|tudiolounge|weetwater|wagbucks|pylog|teampowered|tripes|uckless|upergenpass|ysadminpages)
-t(?:arafen|he(?:atermania|blaze|hdroom|find|firstpost\.co|dailybeast|dailystamford|freedictionary|freelibrary|celebritycafe|lostworldofmrhardy|newamerican|piratebay|postgame|republic|realnews|realdeal|sportscampus|quad\.blogs\.nytimes|weathernetwork|witcher)|rufflepigfilms|sn|smc|sarfin|echreviews|echlicious|est-ipv6|ightvnc|iny(?:corelinux|pic|url)|ubeislam|ypingweb)
+t(?:-online|arafen|he(?:vintageknob|atermania|blaze|hdroom|find|firstpost\.co|dailybeast|dailystamford|freedictionary|freelibrary|celebritycafe|lostworldofmrhardy|newamerican|piratebay|postgame|republic|realnews|realdeal|sportscampus|quad\.blogs\.nytimes|weathernetwork|witcher)|rufflepigfilms|sn|smc|sarfin|echreviews|echlicious|est-ipv6|ightvnc|iny(?:corelinux|pic|url)|ubeislam|ypingweb)
 quickanddirtytips
 vannastyle
 vi(?:rtualcd-online|deo(?:gamescrapbook|gamingpros|help|lan|s-cdn\.mozilla|s-untertiteln)|ruslist)
