@@ -63,7 +63,7 @@ seventeen
 \.vk(?:ontakte\.ru|\.com)/(?:feed|editprofile)
 \.odnoklassniki\.ru/
 \.(?:analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef)\.com/
-\.(?:animefreak|italiafilm)\.tv/
+\.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
 \.(?:antiporno|leo|mbed|thevintageknob)\.org/
@@ -445,7 +445,7 @@ o(?:dnoklassniki|ld\.ulmart|kmagazine|verclockersclub|verclock3d|zone3d)
 p(?:a(?:gead2\.googlesyndication|gesjaunes|lmbeachpost|ndora|rtimage|rtedmagic|idcontent)|cgameshardware|eoplestylewatch|eliculas-latino|ics|ib\.nic|honerlite|hilips|layer|lay0ad|lasmasturm|oliticsweb\.co|opwatch\.ew|oste|opphoto|ostimage|owerarchiver|owerschool|hotofiltre\.free|rice(?:angels|line|linepartnernetwork)|rivatbank|romgirl|sychometrics\.ppsis\.cam\.ac|ureftpd|ublic(?:radio|space|integrity|rweb|recordsin(?:fo|dex))|ureoverclock|ublicacioncientifica)
 r(?:ahasiabanyakproperti|apidshare|e(?:alitytvworld|trogamefreak|trogames|adwriteweb|rfect-privacy)|owerlineblog|oyals)
 s(?:tudyisland|tartpage|eriale\.filmesubtitrate|3\.amazonaws|andranasic|canalert|choolnet|erverwatch|ecurelist|ecure\.wlxrs|hopherbalife|implysup(?:online|ersoft)|insofasolarempire|iteheart|implysup|martabouthealth|o(?:ftwarecocktail|urceforge|merandomdude)|portingnews|portspagemagazine|tudiodaily|tudivz|tudiolounge|weetwater|wagbucks|portsdirect|pylog|teampowered|tripes|uckless|upergenpass|ysadminpages)
-t(?:-online|arafen|he(?:vintageknob|atermania|blaze|hdroom|find|firstpost\.co|dailybeast|dailystamford|freedictionary|freelibrary|celebritycafe|lostworldofmrhardy|newamerican|piratebay|postgame|republic|realnews|realdeal|sportscampus|quad\.blogs\.nytimes|weathernetwork|witcher)|rufflepigfilms|sn|smc|sarfin|echreviews|echlicious|est-ipv6|ightvnc|iny(?:corelinux|pic|url)|ubeislam|ypingweb)
+t(?:witch|-online|arafen|he(?:vintageknob|atermania|blaze|hdroom|find|firstpost\.co|dailybeast|dailystamford|freedictionary|freelibrary|celebritycafe|lostworldofmrhardy|newamerican|piratebay|postgame|republic|realnews|realdeal|sportscampus|quad\.blogs\.nytimes|weathernetwork|witcher)|rufflepigfilms|sn|smc|sarfin|echreviews|echlicious|est-ipv6|ightvnc|iny(?:corelinux|pic|url)|ubeislam|ypingweb)
 quickanddirtytips
 vannastyle
 vi(?:rtualcd-online|deo(?:gamescrapbook|gamingpros|help|lan|s-cdn\.mozilla|s-untertiteln)|meo|ruslist)
