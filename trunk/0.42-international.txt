@@ -65,7 +65,7 @@ seventeen
 \.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
-\.(?:antiporno|leo|mbed|thevintageknob)\.org/
+\.(?:antiporno|kaztorka|leo|mbed|thevintageknob)\.org/
 \.vub\.sk/
 \.filelist\.ro/
 \.seriale\.filmesubtitrate\.info/
@@ -428,7 +428,7 @@ h(?:-online|cdonbass|ermespaketshop|othardware|eraldscotland|otelroom|otelsbycit
 g(?:amasutra|ametrailers|etgreat|ithub|latelier|o|ooglecode|ooglegroups|oogle-analytics|oogleusercontent|oogleartproject|oldphone|nucash|uitar-tube)
 i(?:magebam|tar-tass|stockanalyst|ndiatimes|slamtube)
 jw
-k(?:9webprotection|ataweb|issyoutube|love|ovideo|vnforall)
+k(?:9webprotection|aztorka|ataweb|issyoutube|love|ovideo|vnforall)
 l(?:aunchpad|astpass|aptopvideo2go|eo|etmewatchthis|inuxvideo|ibero|ive|ivefilestore|ostfilm|osmarineros)
 m(?:a(?:cgasm|ngareader|shable|shahd|rketwatch|jorgeeks)|ega-billing|egavideo|edialifemagazine|ichellemalkin|o(?:therboardp(?:oint|ro)|therjones|onthology|neywatch\.bnet|vieline|vie-list|z(?:dev|illa|illazine-fr))|inorleaguebaseball|iniclip|ilphotos|lb|nogosearch|si|yspace|yspacecdn|yheritage|uslim-web|urfreesboropost)
 n(?:etworkworld|etworkedblogs|etflix|icovideo|bcsports|orthescambia)

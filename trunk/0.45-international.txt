@@ -66,7 +66,7 @@ seventeen
 \.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
-\.(?:antiporno|leo|mbed|thevintageknob)\.org/
+\.(?:antiporno|kaztorkaleo|mbed|thevintageknob)\.org/
 \.vub\.sk/
 \.filelist\.ro/
 \.seriale\.filmesubtitrate\.info/
@@ -437,7 +437,7 @@ h(?:-online|appystudio|cdonbass|ermespaketshop|ostingkartinok|othardware|eraldsc
 g(?:amasutra|ametrailers|etgreat|igabase|irlsgogames|ithub|lamour-parfum|latelier|o|ooglecode|ooglevideo|ooglegroups|oogle-analytics|oogleusercontent|oogleartproject|orvodokanal|oldphone|nucash|uitar-tube)
 i(?:taliafilm|magebam|tar-tass|stockanalyst|ndiatimes|slamtube)
 jw
-k(?:9webprotection|ataweb|issyoutube|love|ovideo|vnforall)
+k(?:9webprotection|ataweb|aztorka|issyoutube|love|ovideo|vnforall)
 l(?:aunchpad|astpass|aptopvideo2go|eo|easeweb|etmewatchthis|inuxvideo|ibero|iqpay|ive|ivefilestore|ivejournal|ostfilm|osmarineros)
 m(?:a(?:cgasm|ngahere|ngareader|shable|shahd|rketwatch|jorgeeks)|bed|c\.yandex|egavideo|ega-billing|edialifemagazine|ichellemalkin|o(?:therboardp(?:oint|ro)|therjones|onthology|neywatch\.bnet|vieline|vie-list|z(?:dev|illa|illazine-fr))|inorleaguebaseball|iniclip|ilphotos|lb|nogosearch|si|yspace|yspacecdn|yheritage|yvideo|y\.yahoo|uslim-web|urfreesboropost)
 n(?:etworkworld|etworkedblogs|etflix|icovideo|bcsports|orthescambia)
