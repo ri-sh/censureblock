@@ -76,6 +76,7 @@ seventeen
 \.(t-online|audioklassiks)\.de/
 \.mail\.wo\.com\.cn/
 \.player\.uz/
+\.privezi\.kz/
 }
 
 
@@ -452,6 +453,7 @@ yankee(?:s|sbeisbol))\.\w{2,4}/
 \.dcccd\.edu/
 \.e-konsulat\.gov\.pl/
 \.suseromania\.ro/
+\.privezi\.kz/
 }
 [End]
 

@@ -77,6 +77,7 @@ seventeen
 \.(t-online|audioklassiks)\.de/
 \.mail\.wo\.com\.cn/
 \.player\.uz/
+\.privezi\.kz/
 }
 
 // Здесь слова и сайты, по которым блокируются URL, <a href=url>, <img src=url>
@@ -469,6 +470,7 @@ zynga)\.\w{2,4}/
 \.onlyfilmz\.ws/
 \.(?:emuparadise|videoripper)\.me/
 \.mail\.wo\.com\.cn/
+\.privezi\.kz/
 }
 [End]
 
