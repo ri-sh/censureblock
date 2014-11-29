@@ -472,3 +472,7 @@ div.banners
 @-moz-document domain(forum.pac-rom.com){
 div.banner_ads
 {display:block !important}}
+@-moz-document domain(vse.kz){
+div#banner_wrapper,
+div#banner_highlight
+{display:block !important}}
