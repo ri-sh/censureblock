@@ -96,7 +96,8 @@ div.rframe,
 div.description-text,
 div.c-b-0,
 div#layout,
-div.island
+div.island,
+article.b-item
 {background:transparent !important;}
 /*restore color*/
 @-moz-document domain(wisconsin.gov){
