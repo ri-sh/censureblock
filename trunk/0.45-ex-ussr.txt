@@ -74,7 +74,7 @@ xxxviii?
 \.bash\.im/
 \.(?:onlyfilm[sz])\.ws/
 \.(?:kinofilms|onlyfilms)\.tv/
-\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|top-page|ryazangov|loveplanet|saratov\.[a-z\d._-]*)\.ru/
+\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|top-page|ryazangov|loveplanet|babyblog|saratov\.[a-z\d._-]*)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com|translate\.yandex)\.ua/
 \.amur\.net/
@@ -380,7 +380,7 @@ xt)\.ucoz)\.\w{2,4}/
 3dtop
 5-tv
 a(?:dmomsk|donweb|llbest|mi-tass|pi-maps\.yandex|rchives21|utoplustv)
-b(?:aby|b3x|est-hosting|igpicture)
+b(?:aby|abyblog|b3x|est-hosting|igpicture)
 c(?:dnvideo|l(?:ick\.hotlog|ub51|ub-rf|ubs\.ya)|omicsbook|ontent-video|ity(?:dom|celebrity)|razymama|rimeaguide|yber(?:info|style|security|forum))
 d(?:i(?:rty|monvideo)|ominfo\.cf1|nevnik)
 e(?:-(?:izhevsk|mail|xpedition|katalog|nk|nkama|vid)|va)
