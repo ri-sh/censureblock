@@ -72,7 +72,7 @@ xxxviii?
 [List_Regexps_for_dont_check_Title_and_Meta_and_Body_and_a.innerHTML]{
 \.nya\.sh/
 \.bash\.org\.
-\.(?:baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|top-page|loveplanet|ryazangov)\.ru/
+\.(?:baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|top-page|loveplanet|babyblog|ryazangov)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com|translate\.yandex)\.ua/
 }
@@ -377,7 +377,7 @@ xt)\.ucoz)\.\w{2,4}/
 3dtop
 5-tv
 a(?:llbest|mi-tass|pi-maps\.yandex|rchives21|utoplustv)
-b(?:aby|b3x|est-hosting|igpicture)
+b(?:aby|abyblog|b3x|est-hosting|igpicture)
 c(?:dnvideo|l(?:ick\.hotlog|ub51|ub-rf|ubs\.ya)|omicsbook|ontent-video|ity(?:dom|celebrity)|razymama|rimeaguide|yber(?:info|style|security|forum))
 d(?:i(?:rty|monvideo)|nevnik)
 e-(?:izhevsk|mail|xpedition|katalog|nk|nkama|vid)
