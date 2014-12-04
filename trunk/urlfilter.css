@@ -1,8 +1,7 @@
 /*mail:censureblock@gmail.com*/
 @charset 'utf-8';
 @namespace url(http://www.w3.org/1999/xhtml);
-/*Counters*/
-img[alt="Rambler's Top100"],
+/*Counters*/img[alt="Rambler's Top100"],
 img[alt='Рейтинг@Mail.ru'],
 img[alt='Яндекс.Метрика'],
 img[alt='bigmir)net TOP 100'],
@@ -16,8 +15,7 @@ a[href^='http://top.list.ru/jump?'],
 a[href$='www.liveinternet.ru/click'],
 img[alt='LiveInternet'],
 img[alt='реклама'],
-/*размеры баннеров*/
-embed[width='120'][height='600'],
+/*размеры баннеров*/embed[width='120'][height='600'],
 embed[width='240'][height='400'],
 embed[width='400'][height='80'],
 embed[width='468'][height='60'],
@@ -80,8 +78,7 @@ div[style*='width:160px; height:600px;'],
 div[style*='width: 728px; height: 90px;'],
 div[style*='height: 90px; width: 728px;'],
 div[style*='width: 176px; height: 90px;'],
-/*общие правила*/
-div[id^='bn_'],
+/*общие правила*/div[id^='bn_'],
 div[id^='banner'],
 object[id^='banner'],
 div.ban,
@@ -236,11 +233,7 @@ div[class*='reclam'],
 div[id*='reklam'],
 div[id*='reclam'],
 section.rekl,
-/*текстовая*/
-div#nlxcode,
-div#JobInformer,
-/*Баннерные сети*/
-div[id^='radeant'],
+/*Баннерные сети*/div[id^='radeant'],
 div[id^='DIV_DA_'],
 div[id^='DIV_NNN_'],
 div[id^='DIV_RNN_'],
@@ -248,16 +241,15 @@ div[id^='LNNB_'],
 div[id^='trafmag_'],
 div[id^='b_tz_'],
 div.SC_TBlock,
-/*popup*/
-div#Popunder,
+/*текстовая*/div#nlxcode,
+div#JobInformer,
+/*popup*/div#Popunder,
 div.no-adb,
 div.km_ref_adv_popup,
-/*casino*/
-div.casino,
+/*casino*/div.casino,
 a[href^="https://www.joycasino.com/?partner="],
 a[href^="https://joycasino.com/?partner="],
-/*yandex*/
-div[class$='_type_highlighted'],
+/*yandex*/div[class$='_type_highlighted'],
 div.b-page-layout__column-proxy div.g-gap-vertical[class*='_type_'],
 div.b-page-layout__column:last-of-type>div:not(.i-images-lists)>div>div:not(.b-parallel-search),
 div.b-yadirect,
@@ -271,8 +263,7 @@ div.serp-adv__title-text,
 div.serp-list div.serp-block:nth-of-type(4),
 div.b-tv-direct,
 div[id^='yandex_ad_'],
-/*mail.ru*/
-div.layout__centercol__wrap>div>a.text-banner,
+/*mail.ru*/div.layout__centercol__wrap>div>a.text-banner,
 div.block-adcntxt,
 div.torg_mail_ru__200x300,
 div.header__branding,
@@ -285,11 +276,9 @@ td.direct-spc+td.direct,
 li.menu__item_rb,
 div.informers noindex,
 aside.sidebar-right noindex,
-/*rambler.ru*/
-div.b-worm,
+/*rambler.ru*/div.b-worm,
 div.mixednews__aside,
-/*google*/
-div#mtads,
+/*google*/div#mtads,
 div#bottomads,
 div.nH>div.mq,
 div.nH>div.PS,
@@ -300,34 +289,27 @@ div#AdvertisingTopLine,
 div[class^='pgBan'],
 div#rhs_block,
 div#tvcap>div.commercial-unit,
-/*youtube*/
-div#premium-yva,
+/*youtube*/div#premium-yva,
 div#video-masthead,
-/*rutracker.org*/
-div#sidebar1_wrap>div#ddest-bn-1,
+/*rutracker.org*/div#sidebar1_wrap>div#ddest-bn-1,
 div#sidebar1_wrap>div#idx-3,
 div#sidebar1_wrap>div.tCenter,
 embed[width='200'][height='300'],
 iframe[width='200'][height='300'],
 div#bn-bot-wrap,
-/*ixbt.com*/
-table.top_ad2,
+/*ixbt.com*/table.top_ad2,
 object[width='600'][height='90'],
 img[width='600'][height='90'],
 object[width='600'][height='300'],
 div.clickable_zone,
-/*OpenNET.ru*/
-a[href*='lanbilling.ru'],
+/*OpenNET.ru*/a[href*='lanbilling.ru'],
 table#ibm_adv,
 img[width='242'][height='402'],
 img[width='279'][height='40'],
-/*linux.org.ru*/
-div#mainpage>aside#boxlets>div:first-child,
+/*linux.org.ru*/div#mainpage>aside#boxlets>div:first-child,
 div#interpage-adv,
-/*job.ru*/
-div[class^='showcaseNew'],
-/*overclockers.ru*/
-div#adw,
+/*job.ru*/div[class^='showcaseNew'],
+/*overclockers.ru*/div#adw,
 div.rastyazka,
 div.rastyazka_v,
 div.rastyazka_regard,
@@ -340,38 +322,28 @@ table.needblock,
 div#header>div#uhi,
 body.ltr>center>a,
 iframe#a75c1e43,
-/*fileplaneta.com*/
-span#ta8c,
-/*irr.ru*/
-div.wrBanerPlace,
-/*itmages.ru*/
-div#modal-noAds,
+/*fileplaneta.com*/span#ta8c,
+/*irr.ru*/div.wrBanerPlace,
+/*itmages.ru*/div#modal-noAds,
 /*div.modal-backdrop,conflict with bspb.ru*/
-/*ngs.ru*/
-div.rclheh,
+/*ngs.ru*/div.rclheh,
 div.joagokx,
 div.tcitly,
 div.realty-informer-small,
-/*pravda.ru*/
-div[id^='div_sf_'],
-/*dota2.ru*/
-div.hadv1-block,
+/*pravda.ru*/div[id^='div_sf_'],
+/*dota2.ru*/div.hadv1-block,
 div.vadv1-block,
-/*yarportal.ru*/
-td[width='480'][height='60'],
+/*yarportal.ru*/td[width='480'][height='60'],
 td[width='240'][height='60'],
 object[width='240'][height='100'],
 object[width='480'][height='100'],
 div#ipbwrapper>center>table#table1[width="100%"],
-/*nowfilms.ru*/
-div#b_bl,
-/*nnm-club.me*/
-ins.adsbygoogle,
+/*nowfilms.ru*/div#b_bl,
+/*nnm-club.me*/ins.adsbygoogle,
 div#mb_top_space,
 div#ewnjnlbs_div,
 div#pewnjnlbs_div,
-/*ph4.ru*/
-table.shad
+/*ph4.ru*/table.shad
 {display:none !important}
 @-moz-document domain(sputnik.ru){
 div.b-cover__box>div.b-level
