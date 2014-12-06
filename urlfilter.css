@@ -448,3 +448,9 @@ div.banner_ads
 div#banner_wrapper,
 div#banner_highlight
 {display:block !important}}
+@-moz-document domain(autodesk.com){
+div.adsk-textimage
+{display:block !important}}
+@-moz-document domain(autodesk.ru){
+div[id^='adsk-meganav-']
+{display:block !important}}
