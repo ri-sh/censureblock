@@ -78,6 +78,7 @@ seventeen
 \.mail\.wo\.com\.cn/
 \.player\.uz/
 \.privezi\.kz/
+\.github\.io/
 }
 
 // Здесь слова и сайты, по которым блокируются URL, <a href=url>, <img src=url>
@@ -471,6 +472,7 @@ zynga)\.\w{2,4}/
 \.(?:emuparadise|videoripper)\.me/
 \.mail\.wo\.com\.cn/
 \.privezi\.kz/
+\.github\.io/
 }
 [End]
 
