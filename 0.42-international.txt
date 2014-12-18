@@ -78,6 +78,7 @@ seventeen
 \.player\.uz/
 \.privezi\.kz/
 \.github\.io/
+\.siap\.web\.id/
 }
 
 
@@ -456,6 +457,7 @@ yankee(?:s|sbeisbol))\.\w{2,4}/
 \.suseromania\.ro/
 \.privezi\.kz/
 \.github\.io/
+\.siap\.web\.id/
 }
 [End]
 
