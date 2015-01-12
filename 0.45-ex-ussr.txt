@@ -74,7 +74,7 @@ xxxviii?
 \.bash\.im/
 \.(?:onlyfilm[sz])\.ws/
 \.(?:kinofilms|onlyfilms)\.tv/
-\.(?:admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|top-page|ryazangov|loveplanet|babyblog|mashabear|saratov\.[a-z\d._-]*)\.ru/
+\.(?:hover-club|admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|top-page|ryazangov|loveplanet|babyblog|mashabear|saratov\.[a-z\d._-]*)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com|translate\.yandex)\.ua/
 \.amur\.net/
@@ -386,7 +386,7 @@ d(?:i(?:rty|monvideo)|ominfo\.cf1|nevnik)
 e(?:-(?:izhevsk|mail|xpedition|katalog|nk|nkama|vid)|va)
 f(?:il(?:epost|m|m-vip)|lowersdream|reeschool\.nnov)
 gallery
-h(?:eadbanger|ella|otcharts|omepage)
+h(?:over-club|eadbanger|ella|otcharts|omepage)
 i(?:magepost|picture|mages\.people\.overclockers|vanamp\.pdj)
 j(?:oblist|ust|ustcom|ustmedia)
 k(?:amin-magazine|c18|eep4u|urskweb)
