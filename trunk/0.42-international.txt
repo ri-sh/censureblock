@@ -61,7 +61,7 @@ seventeen
 \.(?:agendaweb|mozilla|mozilla-russia|wikipedia|bash|jw|familysearch|)\.org/
 \.vk(?:ontakte\.ru|\.com)/(?:feed|editprofile)
 \.odnoklassniki\.ru/
-\.(?:analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig)\.com/
+\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig)\.com/
 \.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
@@ -424,7 +424,7 @@ b(?:angkokpost|abelzilla|arentsnova|bcentertainment|erkeleydailyplanet|estfreewa
 c(?:afefootball|amp-firefox|ampaignlive\.co|artoonnetwork|dbaby|elebuzz|elebrity-gossip|elebritybabyscoop|loudacl|lubpenguin|lustrmaps|lubecetico|lubforgrowth|lip2net|o(?:mmondreams|mputerandvideogames|olermaster)|hristianpost|ranestodaymagazine|rimea|runchbang|runchbanglinux|hris-tv|uteftp|yberctm|yanus|zechnymph)
 d(?:ailyindia|ailycaller|ailytarheel|ailyherald|allasnews|esiringgod|efenceweb\.co|istrowatch|ocumentfoundation|ownloadtube|rweb|vdvideosoft)
 e(?:-gold|arnmoremall|arthcam|arthweb|arthcamcdn|bay|bay\.co|baystatic|choes|f|iscoveryeducation|real|vanhanson|la-asso|linuxfoundation|lephantsdream|thereal|scapistmagazine|spnmadison)
-f(?:ata(?:lgame|awa)|ree(?:desktop|drweb|shell|webarcade)|fmpeg|loridastandards|oothillfalcons\.entest|oothillsports|oothillfalcons|orever21|orever21\.co|uncast|reshmeat|ichajes|iercemobilecontent|ilewatcher|ilmschoolrejects|ootmercato|oot-national|ootcenter|otohosting)
+f(?:ata(?:lgame|awa)|ree(?:desktop|drweb|shell|webarcade)|fmpeg|loridablue|loridastandards|oothillfalcons\.entest|oothillsports|oothillfalcons|orever21|orever21\.co|uncast|reshmeat|ichajes|iercemobilecontent|ilewatcher|ilmschoolrejects|ootmercato|oot-national|ootcenter|otohosting)
 i(?:mage-line|magemagick|cenetwork|sohunt|slamictube)
 j(?:ohnford|ustice)
 h(?:-online|cdonbass|ermespaketshop|othardware|eraldscotland|otelroom|otelsbycity|qrates)
