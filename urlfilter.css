@@ -353,7 +353,8 @@ div.box.main>:first-child
 {display:none !important}}
 @-moz-document domain(nnm.me){
 body>a:first-child[target="_blank"]
-{display:none !important}}
+{display:none !important}
+body{url("//nnm.me/i/body-bg.gif") repeat scroll 0px 0px rgb(171, 196, 161) !important;}}
 @-moz-document domain(unionpeer.org){
 div#body_container>noindex
 {display:none !important}}
