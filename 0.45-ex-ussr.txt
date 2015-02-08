@@ -386,11 +386,11 @@ d(?:i(?:rty|monvideo)|ominfo\.cf1|nevnik)
 e(?:-(?:izhevsk|mail|xpedition|katalog|nk|nkama|vid)|va)
 f(?:il(?:epost|m|m-vip)|lowersdream|reeschool\.nnov)
 gallery
-h(?:over-club|eadbanger|ella|otcharts|omepage)
+h(?:elp\.yandex|over-club|eadbanger|ella|otcharts|omepage)
 i(?:magepost|picture|mages\.people\.overclockers|vanamp\.pdj)
 j(?:oblist|ust|ustcom|ustmedia)
 k(?:amin-magazine|c18|eep4u|urskweb)
-l(?:oveplanet|ah|ove\.mail|inguee|ittle-tales|oveopium|overadio|ivejournal)
+l(?:oveplanet|ah|ove\.mail|inguee|ib|ittle-tales|oveopium|overadio|ivejournal)
 m(?:ashabear|arket-click2\.yandex|agicwall|aillist|ajordomo|egashop|y-shop|ylivepage|video|yshows)
 news(?:inphoto|tube)
 o(?:dnoklassniki|ldi|ld\.osp|nlyfilms|mmassage|verhard)
@@ -401,7 +401,7 @@ s(?:aunamax|aransk|aratoff|aratov|aratov\.[a-z\d._-]*|brf|ibmama|m-city|mi21|mar
 t(?:op-page|errikon|erritory-pc|imeweb|op100-images\.rambler|ranslate|retyakovgallery|sya|sigan)
 u(?:kfootball|ralweb)
 v(?:ersion6|esmaster|ideo(?:roms|tuts))
-w(?:ebmoney|ebplanet|etfly|ildberries|orld-art)
+w(?:ebmoney|ebplanet|etfly|ildberries|orldcrisis|orld-art)
 x(?:-memory|gu|vidvideo)
 ya(?:dro|hosuka))\.ru/
 \.(?:documental|business-class)\.su/
