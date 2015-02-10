@@ -353,7 +353,7 @@ div.box.main>:first-child
 {display:none !important}}
 @-moz-document domain(nnm.me){
 body>a:first-child[target="_blank"]
-{display:none !important}
+{display:none !important}}
 @-moz-document domain(unionpeer.org){
 div#body_container>noindex
 {display:none !important}}
@@ -452,5 +452,6 @@ div#banner_highlight
 div.adsk-textimage
 {display:block !important}}
 @-moz-document domain(autodesk.ru){
-div[id^='adsk-meganav-']
+div[id^='adsk-'],
+div[class^='adsk-']
 {display:block !important}}

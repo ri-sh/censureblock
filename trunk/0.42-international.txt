@@ -437,7 +437,7 @@ m(?:a(?:cgasm|ngareader|shable|shahd|rketwatch|jorgeeks)|ega-billing|egavideo|ed
 n(?:etworkworld|etworkedblogs|etflix|icovideo|bcsports|orthescambia)
 o(?:kmagazine|verclockersclub|verclock3d|zone3d)
 p(?:a(?:gesjaunes|lmbeachpost|ndora|rtimage|rtedmagic|idcontent)|cgameshardware|eliculas-latino|eoplestylewatch|ics|honerlite|hilips|lasmasturm|oliticsweb\.co|opwatch\.ew|oste|opphoto|ostimage|owerarchiver|owerschool|hotofiltre\.free|riceline|ricelinepartnernetwork|rivatbank|romgirl|sychometrics\.ppsis\.cam\.ac|ureftpd|ublic(?:radio|space|integrity|rweb|recordsin(?:fo|dex))|ureoverclock)
-r(?:apidshare|e(?:alitytvworld|trogamefreak|trogames|adwriteweb|rfect-privacy)|owerlineblog|oyals)
+r(?:apidshare|e(?:alitytvworld|trogamefreak|trogames|adwriteweb|rfect-privacy)|owerlineblog|oyals|oboweb)
 s(?:3\.amazonaws|andranasic|canalert|erverwatch|ecurelist|ecure\.wlxrs|hopherbalife|implysup(?:online|ersoft)|insofasolarempire|iteheart|martabouthealth|o(?:ftwarecocktail|urceforge|merandomdude)|portingnews|portspagemagazine|tudiodaily|tudivz|tudiolounge|weetwater|wagbucks|pylog|teampowered|tripes|uckless|upergenpass|ysadminpages)
 t(?:ruthdig|witch|-online|arafen|he(?:vintageknob|atermania|blaze|hdroom|find|firstpost\.co|dailybeast|dailystamford|freedictionary|freelibrary|celebritycafe|lostworldofmrhardy|newamerican|piratebay|postgame|republic|realnews|realdeal|sportscampus|quad\.blogs\.nytimes|weathernetwork|witcher)|rufflepigfilms|sn|smc|sarfin|echreviews|echlicious|est-ipv6|ightvnc|iny(?:corelinux|pic|url)|ubeislam|ypingweb)
 quickanddirtytips
