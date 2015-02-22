@@ -61,7 +61,7 @@ seventeen
 \.(?:agendaweb|mozilla|mozilla-russia|wikipedia|bash|jw|familysearch|)\.org/
 \.vk(?:ontakte\.ru|\.com)/(?:feed|editprofile)
 \.odnoklassniki\.ru/
-\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig|goodreads)\.com/
+\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig|goodreads|moviestarplanet)\.com/
 \.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
@@ -433,7 +433,7 @@ i(?:magebam|tar-tass|stockanalyst|ndiatimes|slamtube)
 jw
 k(?:9webprotection|aztorka|ataweb|issyoutube|love|ovideo|vnforall)
 l(?:aunchpad|astpass|aptopvideo2go|eo|etmewatchthis|inuxvideo|ibero|ive|ivefilestore|ostfilm|osmarineros)
-m(?:a(?:cgasm|ngareader|shable|shahd|rketwatch|jorgeeks)|ega-billing|egavideo|edialifemagazine|ichellemalkin|o(?:therboardp(?:oint|ro)|therjones|onthology|neywatch\.bnet|vieline|vie-list|z(?:dev|illa|illazine-fr))|inorleaguebaseball|iniclip|ilphotos|lb|nogosearch|si|yspace|yspacecdn|yheritage|uslim-web|urfreesboropost)
+m(?:a(?:cgasm|ngahere|ngareader|shable|shahd|rketwatch|jorgeeks)|bed|c\.yandex|egavideo|ega-billing|edialifemagazine|ichellemalkin|o(?:therboardp(?:oint|ro)|viestarplanet|therjones|onthology|neywatch\.bnet|vieline|vie-list|z(?:dev|illa|illazine-fr))|inorleaguebaseball|iniclip|ilphotos|lb|nogosearch|si|yspace|yspacecdn|yheritage|yvideo|y\.yahoo|uslim-web|urfreesboropost)
 n(?:etworkworld|etworkedblogs|etflix|icovideo|bcsports|orthescambia)
 o(?:kmagazine|verclockersclub|verclock3d|zone3d)
 p(?:a(?:gesjaunes|lmbeachpost|ndora|rtimage|rtedmagic|idcontent)|cgameshardware|eliculas-latino|eoplestylewatch|ics|honerlite|hilips|lasmasturm|oliticsweb\.co|opwatch\.ew|oste|opphoto|ostimage|owerarchiver|owerschool|hotofiltre\.free|riceline|ricelinepartnernetwork|rivatbank|romgirl|sychometrics\.ppsis\.cam\.ac|ureftpd|ublic(?:radio|space|integrity|rweb|recordsin(?:fo|dex))|ureoverclock)
