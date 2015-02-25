@@ -72,7 +72,7 @@ xxxviii?
 [List_Regexps_for_dont_check_Title_and_Meta_and_Body_and_a.innerHTML]{
 \.nya\.sh/
 \.bash\.org\.
-\.(?:hover-club|baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|top-page|loveplanet|babyblog|mashabear|ryazangov)\.ru/
+\.(?:hover-club|baby|avito|dnevnik|e\.mail|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|top-page|loveplanet|babyblog|mashabear|studyapps|ryazangov)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com|translate\.yandex)\.ua/
 }
@@ -394,7 +394,7 @@ o(?:dnoklassniki|ldi|ld\.osp|nlyfilms|mmassage|verhard)
 p(?:ejnya|hotoblog|hotofile|ics\.top\.rbc|layhard|layground|lanetviolets|okupki21|ool-magazine|ronto|rophotos|rime-tass|rivat24)
 r(?:yazangov|c-love|osnet|oyalrangers\.ucoz|ussianpost|zd)
 qbank
-s(?:aunamax|aransk|aratoff|aratov|aratov\.[a-z\d._-]*|brf|ibmama|m-city|mi21|martflash|pbpost|portmaster|tudent\.altstu|uperjob|chool-club|tudents|vyaznoybank|vpressa|ushitokio31)
+s(?:aunamax|aransk|aratoff|aratov|aratov\.[a-z\d._-]*|brf|ibmama|m-city|mi21|martflash|pbpost|portmaster|tudent\.altstu|uperjob|chool-club|tudents|vyaznoybank|vpressa|ushitokio31|tudyapps)
 t(?:op-page|errikon|erritory-pc|imeweb|op100-images\.rambler|ranslate|retyakovgallery|sya|sigan)
 u(?:kfootball|ralweb)
 v(?:ersion6|esmaster|ideo(?:roms|tuts))
