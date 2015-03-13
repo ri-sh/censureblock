@@ -62,7 +62,7 @@ seventeen
 \.(?:agendaweb|mozilla|mozilla-russia|wikipedia|bash|jw|familysearch|)\.org/
 \.vk(?:ontakte\.ru|\.com)/(?:feed|editprofile)
 \.odnoklassniki\.ru/
-\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig|goodreads|moviestarplanet)\.com/
+\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|christianmingle|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig|goodreads|moviestarplanet)\.com/
 \.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
@@ -430,7 +430,7 @@ analiz|eros_ramazzotti|joe_cocker|gary_peacock)
 7-zip
 a(?:udioklassiks|nalog|ntiporno|gendaweb|rstechnica|lokitobangladesh|lexiasinclair|nywayanyday|bbyy|bbyyonline|bc6|dvancedclustering|lexa|pache|pple|manda|mazon|ma-assn|mericanpublicmedia|mericanbankingnews|lexflyfishing|llheadlinenews|nalysis\.avira|ntiquesandthearts|ndroidguys|ngels|nimefreak|nimepremium|ra-toon|rtflasher|sus|vito)
 b(?:anggood|luekai|oltai|angkokpost|abelzilla|andicam|arentsnova|bcentertainment|elagro|erkeleydailyplanet|estfreewaredownload|igsavefootwear|igbuckbunny|iblegateway|iblemaster|jorn3d|luejays|luesnews|luecatsgraphics|luegriffon|linde-kuh|logblog|log\.laptopmag|logsearch\.google\.com|ogvideo)
-c(?:ocl\.sirsi|afefootball|amp-firefox|ampaignlive\.co|artoonnetwork|dbaby|harmerstudio|elebuzz|elebrity-gossip|elebritybabyscoop|loudacl|lubpenguin|lustrmaps|lubecetico|lubforgrowth|lip2net|o(?:ckos|mmondreams|mputerandvideogames|olermaster)|hristianbook|hristianpost|ranestodaymagazine|rimea|runchbang|runchbanglinux|hris-tv|uteftp|yberctm|yanus|zechnymph)
+c(?:ocl\.sirsi|afefootball|amp-firefox|ampaignlive\.co|artoonnetwork|dbaby|harmerstudio|elebuzz|elebrity-gossip|elebritybabyscoop|loudacl|lubpenguin|lustrmaps|lubecetico|lubforgrowth|lip2net|o(?:ckos|mmondreams|mputerandvideogames|olermaster)|hristianbook|hristianpost|hristianmingle|ranestodaymagazine|rimea|runchbang|runchbanglinux|hris-tv|uteftp|yberctm|yanus|zechnymph)
 d(?:avidstea|ailyindia|ailycaller|ailytarheel|ailyherald|allasnews|esiringgod|efenceweb\.co|istrowatch|oubleclick|ocumentfoundation|ownloadtube|ropboxusercontent|rweb|vdvideosoft|uckduckgo)
 e(?:-gold|arnmoremall|arthcam|arthweb|arthcamcdn|bay|bay\.co|baystatic|choes|f|iscoveryeducation|real|vanhanson|la-asso|linuxfoundation|lephantsdream|thereal|scapistmagazine|spnmadison)
 f(?:acebook|amilysearch|bcdn|ata(?:lgame|awa)|ree(?:desktop|drweb|shell|webarcade)|fmpeg|loridablue|loridastandards|oothillfalcons\.entest|oothillsports|oothillfalcons|orever21|orever21\.co|uncast|reshmeat|ichajes|iercemobilecontent|ilewatcher|ilmschoolrejects|ootmercato|oot-national|ootcenter|otohosting)
