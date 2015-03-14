@@ -61,7 +61,7 @@ seventeen
 \.(?:agendaweb|mozilla|mozilla-russia|wikipedia|bash|jw|familysearch|)\.org/
 \.vk(?:ontakte\.ru|\.com)/(?:feed|editprofile)
 \.odnoklassniki\.ru/
-\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|christianmingle|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig|goodreads|moviestarplanet)\.com/
+\.(?:floridablue|analog|banggood|arstechnica|biblegateway|biblemaster|boltai|christianbook|christianmingle|startpage|apis\.google|mail\.google|plus\.google|belagro|earnmoremall|priceline|livejournal|forever21|wellsfargo|facebook|biblegateway|gigabase|duckduckgo|rahasiabanyakproperti|youtube|publicacioncientifica|zynga|anywayanyday|liqpay|euroskank|leaseweb|play0ad|sportsdirect|mangahere|terrikon|vimeo|studyisland|discoveryeducation|my\.yahoo|typingweb|ef|truthdig|goodreads|moviestarplanet|gundambrasil)\.com/
 \.(?:animefreak|italiafilm|twitch)\.tv/
 \.cyanus\.lt/
 \.myvideo\.ge/
@@ -428,7 +428,7 @@ f(?:ata(?:lgame|awa)|ree(?:desktop|drweb|shell|webarcade)|fmpeg|loridablue|lorid
 i(?:mage-line|magemagick|cenetwork|sohunt|slamictube)
 j(?:ohnford|ustice)
 h(?:-online|cdonbass|ermespaketshop|othardware|eraldscotland|otelroom|otelsbycity|qrates)
-g(?:amasutra|ametrailers|etgreat|ithub|latelier|o|oodreads|ooglecode|ooglegroups|oogle-analytics|oogleusercontent|oogleartproject|oldphone|nucash|uitar-tube)
+g(?:undambrasil|amasutra|ametrailers|etgreat|ithub|latelier|o|oodreads|ooglecode|ooglegroups|oogle-analytics|oogleusercontent|oogleartproject|oldphone|nucash|uitar-tube)
 i(?:magebam|tar-tass|stockanalyst|ndiatimes|slamtube)
 jw
 k(?:9webprotection|aztorka|ataweb|issyoutube|love|ovideo|vnforall)
