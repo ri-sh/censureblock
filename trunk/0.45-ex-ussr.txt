@@ -77,7 +77,7 @@ xxxviii?
 \.(?:hover-club|admomsk|4pda|puregoogle|avito|baby|odnoklassniki|dnevnik|e\.mail|linguee|icensor|xumuk|pravdu|rlsnet|sewlink|sbrf|slovari\.yandex|qbank|svyaznoybank|planetviolets|onlyfilms|pejnya|livejournal|love\.mail|foto\.mail|lah|lady\.mail|my\.mail|kc18|saunamax|svpressa|sushitokio31|top-page|ryazangov|loveplanet|babyblog|mashabear|studyapps|saratov\.[a-z\d._-]*)\.ru/
 \.rutracker\.org/forum/(?:tracker|search)\.php
 \.(?:24tv|62|rbc|aquafanat\.com|translate\.yandex)\.ua/
-\.amur\.net/
+\.(amur|bobfilm)\.net/
 }
 
 // Здесь слова и сайты, по которым блокируются URL, <a href=url>, <img src=url>
@@ -408,7 +408,7 @@ ya(?:dro|hosuka))\.ru/
 \.(?:novafilm|kinofilms|onlyfilms|tuber)\.tv/
 \.onlyfilms\.ws/
 \.(?:(?:aquafanat|crimeaguide|privatblog)\.com|(?:7-zip|e-reading)\.org|62|aukro|analitika\.at|donbass|assa\.intertelecom|intime|privat24|rbc|24tv|translate\.yandex)\.ua/
-\.(?:amur|arjlover|kavkazweb|mytop-in|royalrangers-cr|ukr|website-ru|video-tub-f-ru\.yandex|video-tub-ru\.yandex)\.net/
+\.(?:amur|arjlover|kavkazweb|mytop-in|royalrangers-cr|ukr|website-ru|video-tub-f-ru\.yandex|video-tub-ru\.yandex|bobfilm)\.net/
 \.(?:7-sky|anyfilm|clipnews|forum\.sevastopol|invak|legalpo|solovei|rusfootball)\.info/
 \.(?:tiny|school-city)\.by/
 \.x-torrents\.org/
